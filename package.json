@@ -1,0 +1,35 @@
+{
+  "name": "SW.js",
+  "version": "0.0.1",
+  "description": "A cross-browser wrapper and polyfill for the Service Worker specs and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test specs/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andela-bojengwa/SW.js.git"
+  },
+  "keywords": [
+    "service",
+    "worker",
+    "workers",
+    "background",
+    "tasks",
+    "chrome",
+    "debugging",
+    "realtime",
+    "offline",
+    "push",
+    "notification",
+    "asyc",
+    "calls",
+    "async"
+  ],
+  "author": "Bernard Ojengwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-bojengwa/SW.js/issues"
+  },
+  "homepage": "https://github.com/andela-bojengwa/SW.js"
+}
